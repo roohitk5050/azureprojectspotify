@@ -1,0 +1,9 @@
+{
+	"name": "adfspotifyeteproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a62cbf96-4023-4ae4-9745-899182260efd",
+		"tenantId": "3a9f8138-c541-468b-9728-6f1c02120e11"
+	}
+}
