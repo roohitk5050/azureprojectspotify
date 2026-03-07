@@ -177,14 +177,7 @@
 										}
 									}
 								},
-								"logStorageSettings": {
-									"linkedServiceName": {
-										"referenceName": "AzureDataLakeStorage1",
-										"type": "LinkedServiceReference"
-									},
-									"path": "bronze/DimUser/logs"
-								},
-								"enableLogging": true,
+								"enableLogging": false,
 								"storeSettings": {
 									"type": "AzureBlobFSReadSettings",
 									"recursive": true,
