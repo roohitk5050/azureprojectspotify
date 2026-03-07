@@ -182,7 +182,7 @@
 										"referenceName": "AzureDataLakeStorage1",
 										"type": "LinkedServiceReference"
 									},
-									"path": "bronze/DimUser"
+									"path": "bronze/DimUser/logs"
 								},
 								"enableLogging": true,
 								"storeSettings": {
